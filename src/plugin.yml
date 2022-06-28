@@ -1,0 +1,8 @@
+name: Coins Multiplier
+version: 1.0
+main: org.coinsmultiplier.Main
+authors: [oZenitsu]
+depend: [Vault]
+commands:
+  cmreload:
+    usage: /cmreload

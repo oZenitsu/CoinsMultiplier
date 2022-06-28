@@ -1,0 +1,11 @@
+Normal: 10
+Multiplierx2: 20
+Multiplierx3: 30
+Permissions:
+  Normal: "coinsmultiplier.normal"
+  Multiplierx2: "coinsmultiplier.x2"
+  Multiplierx3: "coinsmultiplier.x3"
+  Reload: "coinsmultiplier.admin"
+Messages:
+  Reload: "&aSuccessfully reloaded"
+  Coins-Received: "&fYou killed &c%killed% &fand received &e%coins% &fcoins."

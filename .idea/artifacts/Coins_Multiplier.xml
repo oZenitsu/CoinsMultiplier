@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Coins Multiplier">
+    <output-path>$PROJECT_DIR$/out/artifacts/Coins_Multiplier</output-path>
+    <root id="archive" name="Coins Multiplier.jar">
+      <element id="module-output" name="Coins Multiplier" />
+    </root>
+  </artifact>
+</component>
